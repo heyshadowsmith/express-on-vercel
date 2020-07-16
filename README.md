@@ -1,2 +1,2 @@
-# express-on-vercel
-This repo is going be used to show the audience how to deploy a simple Express API to Vercel.
+# Express on Vercel
+This project is going to be used to show the NashJS audience how to deploy a simple Express API to Vercel.
